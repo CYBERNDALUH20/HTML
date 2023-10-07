@@ -1,21 +1,24 @@
 # PORTFOLIO
-This repository is accessible to all CYBERTWENTY IT Members that have acces to This Repositories.
-Also if you want to be a Contributors you can ask one of the Member of CYBERTWENTY IT CLUB, but not all Members know Since this is unofficial GitHub Account For CYBERTWENTY IT CLUB.
+<p>
+<b>Hey CYBER!</b> <br>
+This repository is accessible to all CYBERTWENTY IT member who have acces to this repositories. <br>
+If you want to be a contributor you can ask one of the Member of CYBERTWENTY IT CLUB 13th GEN. But not all member know, since this project is made by CYBERTWENTY member.</p>
 
-The purpose of this repository is for the members of CYBERTWENTY IT CLUB member to share their work/project and to provide help for the CYBERTWENTY IT CLUB Communities. This also Meant that this Repositories is NOT only for Those that is are in programming team, but
-also the design team can contribute in this Repositories.
+<p>The purpose of this repository is for the members of CYBERTWENTY IT CLUB member to share their work/project and to provide help for the CYBERTWENTY IT CLUB communities. This repositories is <b>NOT</b> only for certain member that are in programming team. <br>
+The design team can contribute in this repositories.</p>
 
-Founded by some Members of The CYBERTWENTY IT CLUB on Wednesday (04/10/2023, 15:50).
-The stories begun when we are attending IT CORNER. One of the IT teacher like Miss Nadifa and Miss Wanda want us to make a portofolio website.
-And that's how we ended up making this Repositories.
+<p>Founded by some members of The CYBERTWENTY IT CLUB on Wednesday <b>(04/10/2023, 15:50)</b>. <br>
+The story begin in IT CORNER. One of the IT teacher like Nadifa and Wanda want us to make a portofolio website.
+And that's how we ended up making this repositories.</p>
 
-Thanks to our leader Sir Radit who have been very kind to let us and other Member create this repository with his permission.
-You can explore the repositories whenever and wherever you want, We will try to help your problem the best as we can.
+<p>Thanks to our leader Radit who have been very kind to let us create this repository. <br>
+You can explore the repositories whenever and wherever you want. <br>
+We will try to help your problem the best as we can.</p>
 
-These repositories are for coding only, Since GitHub is a platform for programmers like us to create/share something.
-All Members can access this repository and also, if you Want To leave Some Advice for us, We would appreciate your advice.
-No hateful advice; No inappropriate Words; No Hateful Advice!
+<p>Since this repositories is for coding only. GitHub is a platform for programmers like us to create/share something. <br>
+All member can access this repository if granted acces. If you want to leave some advice for us, we would appreciate your advice. <br>
+No hatefull advice; No inappropriate advice; No swear words!</p>
 
-That's it, Remember!
-Stay Creative, Make More innovative works, and provide help to others.
-We just need people who have good attitudes.
+<p>That's it, remember! <br>
+Stay creative; make more innovative work and provide help to others. <br>
+<b>We just need people who have good attitudes</b>.</p>
